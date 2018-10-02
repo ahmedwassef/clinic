@@ -21,7 +21,7 @@ php artisan serve
 ```
 
 Application Key
-The next thing you should do after installing Darrbny is set your application key to a random string. 
+The next thing you should do after installing Clinic is set your application key to a random string. 
 
 ```shell
 php artisan key:generate
